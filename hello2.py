@@ -1,6 +1,6 @@
 # This program says hello and asks for my name.
-
-print('Hello World!')
+{
+      print('Hello World!')
 print('What is your name?')             # ask for there name
 myName = input()
 print('It is good to meet you,' + myName)
@@ -15,4 +15,8 @@ print()
 print()
 print('Have a nice day ' + myName)
 
-      
+      std::cout << "Press ENTER to continue...";
+  std::cin.ignore( std::numeric_limits<std::streamsize>::max(), '\n' );
+
+  return 0;
+  }
