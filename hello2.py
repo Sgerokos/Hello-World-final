@@ -9,9 +9,5 @@ print(len(myName))
 print('What is your age?')      # ask for there age
 myAge=input()
 print('You will be ' + str(int(myAge) +1)  +  ' in a year.')
-print()
-print()
-print()
-print()
 print('Have a nice day ' + myName)
-
+system("pause");
