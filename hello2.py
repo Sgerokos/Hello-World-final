@@ -11,6 +11,6 @@ myAge=input()
 print('You will be ' + str(int(myAge) +1)  +  ' in a year.')
 print('Have a nice day ' + myName)
 system ("PAUSE");
-} // this ends while loop
+   } // this ends while loop
 return 0;
 } // this ends your main function. 
